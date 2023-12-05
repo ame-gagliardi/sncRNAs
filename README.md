@@ -1,3 +1,3 @@
 # ncRNAs
 
-**Repository for ncRNAs project**
+Repository for ncRNAs project
